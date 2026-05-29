@@ -2,7 +2,8 @@
 💻 Full-stack developer  
 🌱 Languages and technology : javascript(Nodejs for bachend, Reactjs for frontend), php  
 ⚡ Building modern web applications with MERN stack  
-📸 Instagram: https://instagram.com/https://www.instagram.com/_wa.lte.r/
+📘 Facebook: https://www.facebook.com/mugisha.walther
+📸 Instagram: https://www.instagram.com/_wa.lte.r/
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_wa.lte.r) 
 
